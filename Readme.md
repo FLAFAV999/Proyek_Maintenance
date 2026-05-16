@@ -9,7 +9,13 @@ An advanced predictive maintenance system implemented as a Multi-Agent System (M
 Farrel Ballard Thomas - 71210679
 
 Drestanta Dipta Jalu Prakasya - 71220895
+---
+## 📊 Dataset Source
+The dataset used in this project is sourced from **Hugging Face**, contributed by **Mohammed Sohail**. It originates from industrial sensor logs specifically designed for predictive maintenance challenges.
 
+*   **Dataset Name:** Predictive Maintenance Dataset
+*   **Original Link:** [Hugging Face - MohammedSohail/predictive-maintenance-dataset](https://huggingface.co/datasets/MohammedSohail/predictive-maintenance-dataset)
+*   **Direct Data URL:** `https://huggingface.co/datasets/MohammedSohail/predictive-maintenance-dataset/resolve/main/data.csv`
 ---
 ## 🧠 System Workflow & Agent Mechanism
 This system operates through a collaborative pipeline where each agent has a specific "intellectual" responsibility:
