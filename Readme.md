@@ -9,6 +9,7 @@ An advanced predictive maintenance system implemented as a Multi-Agent System (M
 Farrel Ballard Thomas - 71210679
 
 Drestanta Dipta Jalu Prakasya - 71220895
+
 ---
 ## 📊 Dataset Source
 The dataset used in this project is sourced from **Hugging Face**, contributed by **Mohammed Sohail**. It originates from industrial sensor logs specifically designed for predictive maintenance challenges.
