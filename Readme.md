@@ -42,7 +42,7 @@ This system operates through a collaborative pipeline where each agent has a spe
 ### 1. Environment Preparation
 This project is designed with a **Portable Environment** for Windows. All dependencies are stored in the `./lib` folder. To replicate the environment:
 ```bash
-pip install -t ./lib pandas scikit-learn streamlit joblib matplotlib seaborn fsspec huggingface_hub
+pip install -t ./lib pandas numpy scikit-learn streamlit joblib matplotlib seaborn fsspec huggingface_hub
 ```
 
 ### 2. Intellectual Initialization (Pre-training)
